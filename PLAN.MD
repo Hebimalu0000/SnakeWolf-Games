@@ -1,8 +1,7 @@
 # Plan
 ## This is where you write down your plans
-
-### First Plans
 ---
+### First Plans
 ```mermaid
 flowchart TD
     n1["Start"] --> n2["ローディング画面"]
